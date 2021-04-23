@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#00FFFF</item>
+        <item name="colorPrimaryDark">#00BFFF</item>
+        <item name="android:navigationBarColor">#1E90FF</item>
+        <item name="android:itemBackground">#00FFFF</item>
+        <item name="android:buttonStyle">@style/ButtonStyle2</item>
+    </style>
+
+    <style name="ButtonStyle2" parent="Base.Widget.AppCompat.Button">
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">#00FFFF</item>
+    </style>
+</resources>
